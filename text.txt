@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world
+=======
+this file is created just for test.
+>>>>>>> 6b37eca4c78559ec2a1d14033e9269f47ac2d914
